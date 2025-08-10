@@ -70,6 +70,9 @@ LIVEKIT_API_SECRET=your_livekit_api_secret
 # Gmail (For Email Sending Tool)
 GMAIL_USER=your_gmail@gmail.com
 GMAIL_APP_PASSWORD=your_gmail_app_password
+
+#Geoogle API KEY
+GOOGLE_API_KEY=your_googleapi_key
 ```
 
 ---
