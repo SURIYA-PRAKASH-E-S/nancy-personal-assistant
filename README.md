@@ -1,6 +1,7 @@
 
 
-#🧠 Nancy – Your Personal AI Assistant
+# 🧠 Nancy – Your Personal AI Assistant
+
 ---
 Nancy is a Python-based AI assistant inspired by Jarvis, capable of:
 
