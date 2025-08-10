@@ -98,10 +98,9 @@ python .\agent.py dev
 
 ---
 
-## ❤️ Used tools
+## ❤ Tools
 
 * [LiveKit](https://livekit.io/) for real-time communication
-* [OpenWeather](https://openweathermap.org/) for weather data
 * [DuckDuckGo](https://duckduckgo.com/) for privacy-friendly search
 
 ---
