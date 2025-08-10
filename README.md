@@ -94,7 +94,7 @@ python .\agent.py dev
 
 * **Gmail App Password**: You must enable **2FA** on your Gmail and generate an **App Password**.
 * **LiveKit**: Create a free account at [livekit.io](https://livekit.io/) to get credentials.
-* Web search can be done with **DuckDuckGo** and **Weather** for free(inbuilt python library).
+* Web search can be done with **DuckDuckGo** and **Weather condition** for free.
 
 ---
 
