@@ -47,16 +47,16 @@ python -m venv venv
  source env/bin/activate
 ```
 
-* ### Download files for agent
-```bash
-python agent.py download-files
-```
+
 ### 3️⃣ Install Required Libraries
 
 ```bash
 pip install -r requirements.txt
 ```
-
+* ### Download files for agent
+```bash
+python agent.py download-files
+```
 ### 4️⃣ Create `.env` File
 
 Inside the project root, create a file named `.env` and add:
